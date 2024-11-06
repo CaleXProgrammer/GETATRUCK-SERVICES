@@ -1,4 +1,4 @@
-*{
+ok*{
     margin: 0;
     padding: 0;
     list-style-type: none;
@@ -130,7 +130,7 @@ main{
 }
 
 .home .img{
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./img/Highwaytrucks.jpg');
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./Highwaytrucks.jpg');
     height: 100%;
     background-size: cover;
     background-position: center;
@@ -217,7 +217,7 @@ main .getAtruck .body .localMoving , main .getAtruck .body .longDistanceMoving{
 }
 
 main .getAtruck .body .rows{
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./img/img10.jpeg');
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./img10.jpeg');
     background-size: cover;
     background-position: center;
     height: 20em;
@@ -240,16 +240,16 @@ main .getAtruck .body .rows:hover{
 }
 
 main .getAtruck .body .longDistanceMoving{
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./img/Highwaytrucks.jpg');
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./Highwaytrucks.jpg');
 }
 
 main .getAtruck .body .commercial{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./img/whitehomeoffice.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./whitehomeoffice.jpg');
     /* color: var(--color-black); */
 }
 
 main .getAtruck .body .packing {
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./img/d4f8081d917643ed96bd.jpg');
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url('./d4f8081d917643ed96bd.jpg');
 }
 
 .whyPeopleChooseUs{
