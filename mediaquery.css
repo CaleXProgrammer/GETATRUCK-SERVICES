@@ -108,15 +108,15 @@
 
     nav ul li a{
         text-align: center;
-        font-size: 0.7em;
+        font-size: 0.4em;
     }
 
     #bar{
-        font-size: 1em;
+        font-size: 0.4em;
     }
 
     #click{
-        font-size: 1em;
+        font-size: 0.4em;
     }
 
     nav .tel{
@@ -150,7 +150,7 @@
     }
 
     nav .bookNow a{
-        padding: 0.3em;
-        font-size: 0.5em;
+        padding: 0.1em;
+        font-size: 0.3em;
     }
 }
